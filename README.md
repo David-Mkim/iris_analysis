@@ -1,5 +1,6 @@
  Iris Dataset Analysis
-This project demonstrates how to load, clean, analyze, and visualize the famous **Iris dataset** using Python libraries such as **pandas**, **matplotlib**, and **seaborn**. It covers essential data science steps from data exploration to insightful visualizations.
+ 
+This project demonstrates how to load, clean, analyze, and visualize the famous Iris dataset using Python libraries such as pandas, matplotlib, and seaborn. It covers essential data science steps from data exploration to insightful visualizations.
 ---
  Project Objectives
 - Load and explore the Iris dataset.
